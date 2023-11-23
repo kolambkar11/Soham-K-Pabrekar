@@ -13,7 +13,6 @@ const Twothird = ({ resume }) => {
         <Workexp resume={resume} />
         <Education resume={resume} />
         <Achievements resume={resume} />
-        <Reels />
       </div>
     </>
   );

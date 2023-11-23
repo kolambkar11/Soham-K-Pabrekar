@@ -4,78 +4,71 @@
     "name": "Soham K Pabrekar",
     "role": "Portfolio",
     "designation": "Open to Work",
-    "profileDescription": "Adobe creative suite VIDEO EDITOR with over 10 years of experience in video performing, providing sound effects & music dialogue. Have a strong ability to work in team atmosphere. Looking for a position in creative open space company to share my experience and to bring a benefit to your company.",
-    "dob": "22nd May",
+    "profileDescription": "Capturing Moments, Crafting Stories 📸🎥 | With over 6 years honing the art of photography, videography, and cinematography, I've woven tales through lenses. 🌟 | Specializing in diverse shoots: products, fashion, weddings, and beyond! 🎬 | Expertise spans digital camera mastery, lighting wizardry, and impeccable studio finesse. 💡✨ | Adept in picture composition, precise editing, and color correction—transforming visions into vivid realities. Let's paint your story in pixels! 🎨✨",
+    "dob": "11th Nov",
     "totalexprience": "6 years",
     "email": "soham11pabrekar@gmail.com",
     "location": "Dadar Mumbai, Maharashtra",
     "linkedIn": "https://www.linkedin.com/in/shejalshirke",
-    "aboutme": "Adobe creative suite VIDEO EDITOR with over 10 years of experience in video performing, providing sound effects & music dialogue. Have a strong ability to work in team atmosphere. Looking for a position in creative open space company to share my experience and to bring a benefit to your company.",
-    "technicalprofiencies": "Adobe Premiere Pro CC, Final Cut Pro 7 & X, Knowledge of Audition, Photoshop, Illustrator, After Effects, Canva, VN, Creativity Team Work",
+    "aboutme": "Capturing Moments, Crafting Stories 📸🎥 | With over 6 years honing the art of photography, videography, and cinematography, I've woven tales through lenses. 🌟 | Specializing in diverse shoots: products, fashion, weddings, and beyond! 🎬 | Expertise spans digital camera mastery, lighting wizardry, and impeccable studio finesse. 💡✨ | Adept in picture composition, precise editing, and color correction—transforming visions into vivid realities. Let's paint your story in pixels! 🎨✨",
+    "technicalprofiencies": "GREEN SCREEN, BTS, Adobe Premiere Pro CC, Canva, VN",
     "workexprience": [
       {
         "company": "Freelance Photographer",
         "from": "2021",
         "to": "Present",
-        "designation": "Wedding, Still, Product, Fashion Photographer & Cinematographer",
-        "project": "Wedding, Still, Product, Fashion Photographer & Cinematographer",
-        "roles_responsibilities": [{ "point": "Edited AVs for Social Media ( Instagram, FB, Youtube)" }, { "point": "Edited Influncer videos (Instagram)" }, { "point": "Color Correction videos (Premiere Pro CC)" }]
+        "designation": "Cinematographer",
+        "project": "Cinematographer",
+        "roles_responsibilities": [{ "point": "Lighting Design, Camera and Equipment, Shot Composition, Location Scouting, Budgeting and Planning, Problem Solving, Post-Production Collaboration" }],
+        "view_playlist": "https://youtube.com/@SooThatFilms"
       },
       {
         "company": "Parag Sawant’s Films",
         "from": "2020",
         "to": "2021",
-        "designation": "Wedding, Still, Product, Fashion Photographer & Cinematographer",
-        "project": "Wedding, Still, Product, Fashion Photographer & Cinematographer",
-        "roles_responsibilities": [{ "point": "Edited AVs for Social Media ( Instagram, FB, Youtube)" }, { "point": "Edited Hindi YT Editorials & Reels" }]
+        "designation": "Cinematographer & Camera assistant",
+        "project": "Cinematographer",
+        "roles_responsibilities": [{ "point": "Lighting Design, Camera and Equipment, Shot Composition, Location Scouting, Budgeting and Planning, Problem Solving, Post-Production Collaboration" }],
+        "view_playlist": "https://youtube.com/playlist?list=PLRnpB_6By8Kz6CZc8AcPU6_5W_NAOXO48&si=TisWiAteNc3wsgLj"
       },
       {
-        "company": "Assistant Cameraman at Aaj Tak",
+        "company": "Aaj Tak",
         "from": "2019",
         "to": "2020",
-        "designation": "Wedding, Still, Product, Fashion Photographer & Cinematographer",
-        "project": "Wedding, Still, Product, Fashion Photographer & Cinematographer",
-        "roles_responsibilities": [
-          { "point": "Edited AVs for Social Media ( Instagram, FB, Youtube)" },
-          { "point": "Corrected colored footages, polished audio in Premiere Pro & Input temporary graphics" },
-          { "point": "Revised final edits & inputs finalized graphics" },
-          { "point": "Worked closely with supervision producer & graphic department to ensure deadlines are met" },
-          { "point": "Green screen, Sound Designing." }
-        ]
+        "designation": "Cinematographer & Camera assistant",
+        "project": "Cinematographer",
+        "roles_responsibilities": [{ "point": "Lighting Design, Camera and Equipment, Shot Composition, Location Scouting, Budgeting and Planning, Problem Solving, Post-Production Collaboration" }],
+        "view_playlist": ""
       },
       {
-        "company": "Assistant Director at Colors Marathi Channel",
+        "company": "Colors Marathi Channel",
         "from": "2018",
         "to": "2019",
-        "designation": "Wedding, Still, Product, Fashion Photographer & Cinematographer",
-        "project": "Wedding, Still, Product, Fashion Photographer & Cinematographer",
-        "roles_responsibilities": [
-          { "point": "Edited BTS for Raymond, Pantaloons, Myntra, Vitruvein, Phoneix Market City Showreel of Mustang, Shoppers Stop" },
-          { "point": "Instagram videos of Kashish, Stop, Hautecurry" },
-          { "point": "Promo Videos of Phoneix Market City ( Nora Fatehi)" },
-          { "point": "Agricultral Shortfilm - Smart Sheti" },
-          { "point": "Interview Talk Show - Bio Oil (Neha Dhupai, Sania Mirza) Stock Footages - Color Correction" },
-          { "point": "Green screen, Sound Designing, Foley, Motion Graphics, 2D Animation, BTS, Stop Motion" }
-        ]
+        "designation": "Assistant Director",
+        "project": "Cinematographer",
+        "roles_responsibilities": [{ "point": "Lighting Design, Camera and Equipment, Shot Composition, Location Scouting, Budgeting and Planning, Problem Solving, Post-Production Collaboration" }],
+        "view_playlist": ""
       },
       {
-        "company": "Assistant Director at Zee Yuva Channel ()",
+        "company": "Zee Yuva Channel",
         "from": "2017",
         "to": "2018",
-        "designation": "Wedding, Still, Product, Fashion Photographer & Cinematographer",
-        "project": "Wedding, Still, Product, Fashion Photographer & Cinematographer ",
-        "roles_responsibilities": [{ "point": "Edited Wedding Cinematic Films, Trailers, Teaser, Pre Wedding, Lip Dub" }, { "point": "BTS - Namrata Group" }, { "point": "Pune Marathon - Rangathon Highlight" }]
+        "designation": "Assistant Director",
+        "project": "Cinematographer ",
+        "roles_responsibilities": [{ "point": "Lighting Design, Camera and Equipment, Shot Composition, Location Scouting, Budgeting and Planning, Problem Solving, Post-Production Collaboration" }],
+        "view_playlist": ""
       }
     ],
     "education": [
       { "year": "2007", "course": "Photographer from National Institute of photography", "institution": "National Institute of photography" },
-      { "year": "2010", "course": "Diploma in Mechanicals", "institution": "" },
+      { "year": "2015", "course": "Diploma in Mechanicals", "institution": "" },
       { "year": "2012", "course": "HSC", "institution": "Mumbai University" },
-      { "year": "2012", "course": "SSC", "institution": "Mumbai University" }
+      { "year": "2010", "course": "SSC", "institution": "Mumbai University" }
     ],
     "achievements": [
-      { "year": "2007", "title": "Bits & Bytes Fashion Parade, 2023" },
-      { "year": "2010", "title": "Valient Fame Icon, 2023" }
+      { "year": "2020", "title": "Sindhudurg Fame Festival" },
+      { "year": "2021", "title": "Bits & Bytes Fashion Parade" },
+      { "year": "2023", "title": "Valient Fame Icon" }
     ],
     "reels": [
       { "title": "", "codes": "" },

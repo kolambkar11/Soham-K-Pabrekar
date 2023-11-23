@@ -30,6 +30,16 @@ const Workexps = ({ resume }) => {
                   </h6>
                 </div>
                 <Responsibilities responsbilities={exp.roles_responsibilities} />
+
+                {exp.view_playlist ? (
+                  <b>
+                    <a href={exp.view_playlist} target="_blank">
+                      View Work
+                    </a>
+                  </b>
+                ) : (
+                  ""
+                )}
                 <hr />
               </div>
             </>
