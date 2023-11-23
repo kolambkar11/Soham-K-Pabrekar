@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/soham-k-pabrekar/static/css/main.08230b64.css",
-    "main.js": "/soham-k-pabrekar/static/js/main.bb76c18d.js",
+    "main.css": "/soham-k-pabrekar/static/css/main.8154946a.css",
+    "main.js": "/soham-k-pabrekar/static/js/main.badc2b8d.js",
     "static/js/787.842c835f.chunk.js": "/soham-k-pabrekar/static/js/787.842c835f.chunk.js",
+    "static/media/soham-k-Pabrekar-CV.pdf": "/soham-k-pabrekar/static/media/soham-k-Pabrekar-CV.f6e7a3a6d3d55c16aa2d.pdf",
     "static/media/profile-photo.jpeg": "/soham-k-pabrekar/static/media/profile-photo.534596736981376d4018.jpeg",
+    "static/media/SKP-CoverLetter.pdf": "/soham-k-pabrekar/static/media/SKP-CoverLetter.04fd11836a09474322a7.pdf",
     "index.html": "/soham-k-pabrekar/index.html",
-    "main.08230b64.css.map": "/soham-k-pabrekar/static/css/main.08230b64.css.map",
-    "main.bb76c18d.js.map": "/soham-k-pabrekar/static/js/main.bb76c18d.js.map",
+    "main.8154946a.css.map": "/soham-k-pabrekar/static/css/main.8154946a.css.map",
+    "main.badc2b8d.js.map": "/soham-k-pabrekar/static/js/main.badc2b8d.js.map",
     "787.842c835f.chunk.js.map": "/soham-k-pabrekar/static/js/787.842c835f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08230b64.css",
-    "static/js/main.bb76c18d.js"
+    "static/css/main.8154946a.css",
+    "static/js/main.badc2b8d.js"
   ]
 }
